@@ -1,6 +1,6 @@
 {
   "name": "VideoIO",
-  "version": "1.0.3-onelight",
+  "version": "1.0.3",
   "swift_versions": [
     "5.0"
   ],
@@ -11,7 +11,7 @@
     "YuAo": "me@imyuao.com"
   },
   "source": {
-    "tag": "1.0.3-onelight",
+    "tag": "1.0.3",
     "git": "git@github.com:OnelightApps/VideoIO.git"
   },
   "source_files": "Sources/VideoIO/*.{swift}",
